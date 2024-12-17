@@ -13,3 +13,11 @@ This is a basic Chrome extension that generates random lame jokes every time som
    ```bash
    git clone https://github.com/Ayush41/Joke-Extension.git
    cd Joke-Extension
+
+## Load the Extension in Chrome
+
+1. Open Chrome and navigate to chrome://extensions/.
+
+2. Enable "Developer mode" by toggling the switch in the top right corner.
+
+3. Click on "Load unpacked" and select the directory where you cloned the repository.
